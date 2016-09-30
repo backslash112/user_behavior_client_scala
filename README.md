@@ -10,3 +10,6 @@ Step 2: Run the sbt project:
 
     sbt
     > run 192.168.1.1:9002 user-behavior-topic
+
+### The Server
+https://github.com/backslash112/user_behavior_server_scala
