@@ -1,4 +1,4 @@
-# user_behavior_spark_streaming
+# user_behavior_producer_scala
 A practice with https://www.ibm.com/developerworks/cn/opensource/os-cn-spark-practice2/
 
 ### Build the SBT project:
