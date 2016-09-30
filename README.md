@@ -1,4 +1,4 @@
-# User Behavior Client(Producer) Scala
+# User Behavior Client(Producer)
 A practice with https://www.ibm.com/developerworks/cn/opensource/os-cn-spark-practice2/
 
 ### Build the SBT project:
